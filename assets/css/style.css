@@ -1561,7 +1561,7 @@ Icon for all respective meta
 	position: absolute;
 	left: 50%;
 	bottom: 40px;
-	border: 2px solid #fff;
+	border: 2px solid #c62828;
 	border-radius: 16px;
 	height: 50px;
 	width: 30px;
@@ -1588,7 +1588,7 @@ Icon for all respective meta
 .mouse-icon .wheel {
 	position: relative;
 	border-radius: 10px;
-	background: #fff;
+	background: #c62828;
 	width: 4px;
 	height: 10px;
 	top: 4px;
@@ -1811,4 +1811,9 @@ Icon for all respective meta
     border: 5px solid #FFF;
     padding: 5px;
     box-shadow: 0 0px 0px 1px #eee;
+}
+
+.bio-title {
+  width: 100px;
+  float: left;
 }
